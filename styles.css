@@ -1,0 +1,18 @@
+#box {
+  width: 20rem;
+  height: 20rem;
+  background: #666;
+  margin: 0 20px;
+}
+
+.container {
+  display: flex;
+  align-items: center;
+}
+
+.inputs-container {
+  display: flex;
+  flex-flow: column;
+  height: 20rem;
+  justify-content: space-between;  
+}
